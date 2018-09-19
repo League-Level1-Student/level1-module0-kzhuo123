@@ -14,7 +14,7 @@ public static void main(String[] args) {
 	r.turn(90);
 	r.move(100);
 }
-void draw 
+ 
 	
 	
 	
