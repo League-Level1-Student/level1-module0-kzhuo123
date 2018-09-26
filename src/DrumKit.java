@@ -66,8 +66,8 @@ System.out.println("mouse clicked");
    	 
    	 // 15. Download a drum sound and drop it into your "default package". You can find it on freesound.org. To download it, log in as leagueofamazing/code4life.
    	 // 16. If they clicked on the drumImage...
-if (drumClicked==) {
-	 playSound( "drums.wav");
+if (drumClicked==drumLabelWithImage) {
+	 playSound( "drum.wav");
 }
    
    		 // 17. ...use the playSound method to play a drum sound. Test to see if it works
